@@ -30,3 +30,12 @@
 | 25 | OOP 4: Machine Learning Example | `Duration not visible` | [Link](https://www.youtube.com/watch?v=4yrxwaQm2QQ) |
 
 **Total:** `3:13:27`
+
+---
+
+## Materials
+
+| Resource | Type |
+|----------|------|
+| [OOP Complete Notes](OOP_Complete_Notes.md) | Markdown |
+| [Notebooks](Notebooks/) | 24 Jupyter Notebooks |

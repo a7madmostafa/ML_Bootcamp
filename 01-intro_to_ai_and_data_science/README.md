@@ -15,3 +15,11 @@
 | 10 | Different Job Roles | `3:42` | [Link](https://www.youtube.com/watch?v=BJNJpQARIPU) |
 
 **Total:** `41:14`
+
+---
+
+## Materials
+
+| Resource | Type |
+|----------|------|
+| [Intro to AI](Intro%20to%20AI.pdf) | PDF |

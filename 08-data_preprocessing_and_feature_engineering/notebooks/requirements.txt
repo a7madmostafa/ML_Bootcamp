@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
+category-encoders
+missingno
+ydata-profiling

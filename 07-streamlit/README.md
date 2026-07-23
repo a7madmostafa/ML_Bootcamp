@@ -12,3 +12,11 @@
 | 08 | Streamlit Covid-19 App Deployment | `4:58` | [Link](https://www.youtube.com/watch?v=pi3Eon_0M6A) |
 
 **Total:** `1:09:01`
+
+---
+
+## Materials
+
+| Resource | Type |
+|----------|------|
+| [Streamlit Tutorial](CODE/Streamlit%20Tutorial.ipynb) | Jupyter Notebook |

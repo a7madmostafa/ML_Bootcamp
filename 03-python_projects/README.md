@@ -11,3 +11,15 @@
 | P7 | Guess the Word | `28:26` | [Link](https://www.youtube.com/watch?v=km2Z5tcHpAk) |
 
 **Total:** `2:22:38`
+
+---
+
+## Materials
+
+| Project | Files |
+|---------|-------|
+| [Word Guess](Code/01-%20Word%20Guess/) | `GuessTheWord.ipynb`, `guess_word.py`, `guess_word2.py` |
+| [Weather API](Code/02-%20Weather%20API/) | `Weather_App.ipynb`, `Weather_App.py`, `weather.py` |
+| [ATM App](Code/03-%20ATM%20App/) | `ATM_Project_solution.ipynb`, `ATM_Project_template.ipynb`, `atm.py` |
+| [Books Scraping](Code/04-%20Books%20Scraping/) | `Books_Scraping.ipynb`, `app.py`, `scrape.py` |
+| [News API](Code/05-%20News%20API/) | `news.ipynb`, `news.py` |

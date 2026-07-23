@@ -16,7 +16,3 @@ A structured machine learning bootcamp covering AI fundamentals, Python, data an
 | 08 | [Data Preprocessing & Feature Engineering](08-data_preprocessing_and_feature_engineering/) | Cleaning, scaling, encoding, pipelines |
 | 09 | [Python Machine Learning](09-python_machine_learning/) | Regression, classification, clustering, PCA |
 | 10 | Deep Learning | *Coming soon* |
-
-## Old Structure
-
-The original module split is preserved in [ML_Bootcamp_Contents.md](ML_Bootcamp_Contents.md).

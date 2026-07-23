@@ -47,3 +47,9 @@
 **Total:** `6:47:16`
 
 > **Note:** Videos 31–41 are unavailable/hidden on YouTube.
+
+---
+
+## Materials
+
+> Coming soon.

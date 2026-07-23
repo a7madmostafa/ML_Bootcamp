@@ -8,3 +8,12 @@
 | 04 | Web Scraping Coding 03 | `5:47` | [Link](https://www.youtube.com/watch?v=NEdRM4eadpI) |
 
 **Total:** `33:32`
+
+---
+
+## Materials
+
+| Resource | Type |
+|----------|------|
+| [Web Scraping Complete Notes](Intro_to_Web_Scraping_Complete_Notes.md) | Markdown |
+| [CODE](CODE/) | 2 Notebooks + 3 Python Scripts |

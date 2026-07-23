@@ -14,3 +14,13 @@
 | 09 | What Is Next | `6:32` | [Link](https://www.youtube.com/watch?v=goPhCCkmNUk) |
 
 **Total:** `3:17:02`
+
+---
+
+## Materials
+
+| Resource | Type |
+|----------|------|
+| [Notebooks](notebooks/) | 8 Jupyter Notebooks + `requirements.txt` |
+| [Data](data/) | `train-data.csv`, `semi_cleaned_data.csv`, `cleaned_data.csv` |
+| [Reports](reports/) | `first-exploration.html` |

@@ -38,3 +38,25 @@
 | 34 | Airbnb EDA 04 | `10:14` | [Link](https://www.youtube.com/watch?v=PSUfpIpxrrE) |
 
 **Total:** `5:42:59`
+
+---
+
+## Materials
+
+### PDFs
+
+| Resource | Type |
+|----------|------|
+| [Intro to Data Analysis](PDFs/Intro%20to%20Data%20Analysis.pdf) | PDF |
+| [Intro to Linear Algebra](PDFs/Intro%20to%20Linear%20Algebra.pdf) | PDF |
+| [Descriptive Statistics](PDFs/Descriptive%20Statistics.pdf) | PDF |
+
+### Code
+
+| Resource | Contents |
+|----------|----------|
+| [Linear Algebra](CODE/01-%20Linear%20Algebra/) | 5 Notebooks |
+| [Intro to EDA](CODE/02-%20Intro%20to%20EDA/) | Notebook + CSV data |
+| [Pandas Tutorial](CODE/03-%20Pandas%20Tutorial/) | Notebook + HTML + CSV data |
+| [Data Visualization Tutorial](CODE/04-%20Data%20Visualization%20Tutorial/) | Notebook + HTML + CSV data |
+| [Data Analysis Projects](CODE/05-%20Data%20Analysis%20Projects/) | Titanic, Covid-19, Airbnb, World Happiness, Zomato, Google Play Store, Airline Satisfaction |

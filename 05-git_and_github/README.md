@@ -10,3 +10,11 @@
 | 06 | Git & GitHub Collaboration 02 | `5:49` | [Link](https://www.youtube.com/watch?v=K7e-0RCrqQY) |
 
 **Total:** `21:11`
+
+---
+
+## Materials
+
+| Resource | Type |
+|----------|------|
+| [Git & GitHub Notes](Git_and_GitHub_Notes.md) | Markdown |
