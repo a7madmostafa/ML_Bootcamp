@@ -1,5 +1,7 @@
 # ML Bootcamp
 
+![Machine Learning Bootcamp](Machine%20Learning%20Bootcamp.png)
+
 A structured machine learning bootcamp covering AI fundamentals, Python, data analysis, and machine learning.
 
 ## Prerequisites
