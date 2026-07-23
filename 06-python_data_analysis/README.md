@@ -2,21 +2,21 @@
 
 | # | Topic | Duration | YouTube |
 |---|-------|----------|---------|
-| 01 | Intro to Data Analysis | `7:29` | - |
-| 02 | Data Representation | `3:35` | - |
-| 03 | Data Analysis Types | `3:29` | - |
-| 04 | Linear Algebra 1: Intro | `5:38` | - |
-| 05 | Linear Algebra 2: Scalar vs Vector vs Matrix | `7:43` | - |
-| 06 | Linear Algebra 3: Matrices in Python | `9:57` | - |
-| 07 | Linear Algebra 4: Element-by-Element Operations | `4:51` | - |
-| 08 | Linear Algebra 5: Element-by-Element NumPy | `5:07` | - |
-| 09 | Linear Algebra 6: NumPy Operations 1 | `9:53` | - |
-| 10 | Linear Algebra 7: NumPy Operations 2 | `3:54` | - |
-| 11 | Stats 1: Intro | `5:10` | - |
-| 12 | Stats 2: Central Tendency | `6:27` | - |
-| 13 | Stats 3: Five-Number Summary | `2:12` | - |
-| 14 | Stats 4: Spread of Data | `7:34` | - |
-| 15 | Stats 5: Histogram | `6:43` | - |
+| 01 | Intro to Data Analysis | `7:29` | [Link](https://www.youtube.com/watch?v=yvR-0esKp2E) |
+| 02 | Data Representation | `3:35` | [Link](https://www.youtube.com/watch?v=BCCzjf-sFyE) |
+| 03 | Data Analysis Types | `3:29` | [Link](https://www.youtube.com/watch?v=svxJ3Z1CeDQ) |
+| 04 | Linear Algebra 1: Intro | `5:38` | [Link](https://www.youtube.com/watch?v=2uxboG-lJB8) |
+| 05 | Linear Algebra 2: Scalar vs Vector vs Matrix | `7:43` | [Link](https://www.youtube.com/watch?v=Lwhon-zqedY) |
+| 06 | Linear Algebra 3: Matrices in Python | `9:57` | [Link](https://www.youtube.com/watch?v=d7bTsosFV8g) |
+| 07 | Linear Algebra 4: Element-by-Element Operations | `4:51` | [Link](https://www.youtube.com/watch?v=PvAOOVoEZQE) |
+| 08 | Linear Algebra 5: Element-by-Element NumPy | `5:07` | [Link](https://www.youtube.com/watch?v=FXkxYWs01iM) |
+| 09 | Linear Algebra 6: NumPy Operations 1 | `9:53` | [Link](https://www.youtube.com/watch?v=07ohpGNWuUg) |
+| 10 | Linear Algebra 7: NumPy Operations 2 | `3:54` | [Link](https://www.youtube.com/watch?v=OrN8RjX_Kh8) |
+| 11 | Stats 1: Intro | `5:10` | [Link](https://www.youtube.com/watch?v=8uA3DxO-zNA) |
+| 12 | Stats 2: Central Tendency | `6:27` | [Link](https://www.youtube.com/watch?v=TTxcBGbNaLc) |
+| 13 | Stats 3: Five-Number Summary | `2:12` | [Link](https://www.youtube.com/watch?v=9-ajdNS--GU) |
+| 14 | Stats 4: Spread of Data | `7:34` | [Link](https://www.youtube.com/watch?v=0vdJYoSVcBo) |
+| 15 | Stats 5: Histogram | `6:43` | [Link](https://www.youtube.com/watch?v=xK1n8nEbN70) |
 | 16 | Stats 6: Normal Distribution | `4:00` | - |
 | 17 | Stats 7: Outliers & Box Plot | `3:13` | - |
 | 18 | Stats 8: Covariance & Correlation | `5:13` | - |
