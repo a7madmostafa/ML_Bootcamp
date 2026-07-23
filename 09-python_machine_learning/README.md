@@ -1,5 +1,7 @@
 # MLB09 — Python Machine Learning
 
+> **Extra Projects:** [Used Cars Price Prediction](CODE/04-%20Used%20Cars%20Price%20Prediction/) | [Home Loan Approval](CODE/09-%20Home%20Loan%20Approval/) | [Walmart Store Sales](CODE/10-%20Walmart%20Store%20Sales%20Prediction/)
+
 | # | Topic | Duration | YouTube | PDF | CODE |
 |---|-------|----------|---------|-----|------|
 | 01 | Intro to Machine Learning | `19:47` | [Link](https://www.youtube.com/watch?v=Ei43H7ffnrU) | [PDF](PDFs/01-%20Intro%20to%20ML/Intro%20to%20Machine%20Learning.pdf) | - |
@@ -45,5 +47,3 @@
 | 41 | Agglomerative Clustering | `9:22` | [Link](https://www.youtube.com/watch?v=vMw2tS5we1I) | [PDF](PDFs/10-%20Clustering/Clustering.pdf) | [Notebook](CODE/14-%20Clustering/clustering-hierarichal.ipynb) |
 
 **Total:** `6:47:16`
-
-> **Extra Projects:** [Used Cars Price Prediction](CODE/04-%20Used%20Cars%20Price%20Prediction/) | [Home Loan Approval](CODE/09-%20Home%20Loan%20Approval/) | [Walmart Store Sales](CODE/10-%20Walmart%20Store%20Sales%20Prediction/)
