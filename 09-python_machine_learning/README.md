@@ -32,21 +32,19 @@
 | 28 | Applying Decision Tree Classifier | `13:57` | [Link](https://www.youtube.com/watch?v=59zHM6gNFLY) |
 | 29 | Decision Tree Regressor | `10:20` | [Link](https://www.youtube.com/watch?v=Wb7u7xn0EBs) |
 | 30 | Ensemble Methods | `9:28` | [Link](https://www.youtube.com/watch?v=85uXX_7iuYs) |
-| 31 | Applying Ensemble Methods | `5:59` | - |
-| 32 | Intro to Dimension Reduction | `9:20` | - |
-| 33 | PCA in Theory | `10:58` | - |
-| 34 | PCA from Scratch | `9:38` | - |
-| 35 | PCA in Practice | `8:50` | - |
-| 36 | Intro to Clustering | `4:55` | - |
-| 37 | K-Means Algorithm 1 | `7:21` | - |
-| 38 | K-Means Algorithm 2 | `6:05` | - |
-| 39 | K-Means Algorithm 3 | `15:08` | - |
-| 40 | K-Means Algorithm 4 | `5:39` | - |
-| 41 | Agglomerative Clustering | `9:21` | - |
+| 31 | Applying Ensemble Methods | `6:00` | [Link](https://www.youtube.com/watch?v=cPPyO4WV3xM) |
+| 32 | Intro to Dimension Reduction | `9:21` | [Link](https://www.youtube.com/watch?v=gxhjwtBkt9Y) |
+| 33 | PCA in Theory | `10:59` | [Link](https://www.youtube.com/watch?v=jWJDP9eLCdU) |
+| 34 | PCA from Scratch | `9:39` | [Link](https://www.youtube.com/watch?v=ZLM6rWmKzik) |
+| 35 | PCA in Practice | `8:51` | [Link](https://www.youtube.com/watch?v=X6QDsjWwYaI) |
+| 36 | Intro to Clustering | `4:56` | [Link](https://www.youtube.com/watch?v=QUw_NfKE0R0) |
+| 37 | K-Means Algorithm 1 | `7:22` | [Link](https://www.youtube.com/watch?v=HWcg4YVRkzE) |
+| 38 | K-Means Algorithm 2 | `6:06` | [Link](https://www.youtube.com/watch?v=usG3mugpRo4) |
+| 39 | K-Means Algorithm 3 | `15:09` | [Link](https://www.youtube.com/watch?v=NE3r7AOBAXc) |
+| 40 | K-Means Algorithm 4 | `5:40` | [Link](https://www.youtube.com/watch?v=CnOa3lLLtX8) |
+| 41 | Agglomerative Clustering | `9:22` | [Link](https://www.youtube.com/watch?v=vMw2tS5we1I) |
 
 **Total:** `6:47:16`
-
-> **Note:** Videos 31–41 are unavailable/hidden on YouTube.
 
 ---
 
