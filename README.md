@@ -2,21 +2,10 @@
 
 A structured machine learning bootcamp covering AI fundamentals, Python, data analysis, and machine learning.
 
-> Inspired by [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
-
-## Quick Links
-
-| Resource | Link |
-|----------|------|
-| Course materials | [GitHub Repository](https://github.com/a7madmostafa/ML_Bootcamp) |
-| Video lectures | [YouTube Playlist](https://www.youtube.com/playlist?list=PLXyDaiLmW7B0) |
-| Old structure | [ML_Bootcamp_Contents.md](ML_Bootcamp_Contents.md) |
-
 ## Prerequisites
 
-- Basic Python knowledge (variables, loops, functions)
 - Laptop with internet connection
-- No prior ML experience required — we start from the basics
+- No prior Python experience required
 
 ## Modules
 
