@@ -1,0 +1,12 @@
+{
+  "module": 6,
+  "id": "MLB06",
+  "title": "Python Data Analysis",
+  "description": "Linear algebra, statistics, EDA",
+  "videos": 34,
+  "duration": "5:42:59",
+  "materials": {
+    "pdf": ["PDFs/Intro to Data Analysis.pdf", "PDFs/Intro to Linear Algebra.pdf", "PDFs/Descriptive Statistics.pdf"],
+    "code": ["CODE/"]
+  }
+}

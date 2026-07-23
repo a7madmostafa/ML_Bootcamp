@@ -1,0 +1,12 @@
+{
+  "module": 4,
+  "id": "MLB04",
+  "title": "Python Web Scraping",
+  "description": "BeautifulSoup, scraping techniques",
+  "videos": 4,
+  "duration": "33:32",
+  "materials": {
+    "pdf": ["Intro_to_Web_Scraping_Complete_Notes.md"],
+    "code": ["CODE/"]
+  }
+}

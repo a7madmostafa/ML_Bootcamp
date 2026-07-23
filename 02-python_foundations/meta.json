@@ -1,0 +1,12 @@
+{
+  "module": 2,
+  "id": "MLB02",
+  "title": "Python Foundations",
+  "description": "Data types, OOP, functions, file handling",
+  "videos": 26,
+  "duration": "3:13:27",
+  "materials": {
+    "pdf": [],
+    "code": ["Notebooks/"]
+  }
+}

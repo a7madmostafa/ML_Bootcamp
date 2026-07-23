@@ -1,0 +1,12 @@
+{
+  "module": 5,
+  "id": "MLB05",
+  "title": "Git & GitHub",
+  "description": "Version control, collaboration",
+  "videos": 6,
+  "duration": "21:11",
+  "materials": {
+    "pdf": ["Git_and_GitHub_Notes.md"],
+    "code": []
+  }
+}

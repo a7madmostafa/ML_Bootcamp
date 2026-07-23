@@ -1,0 +1,12 @@
+{
+  "module": 7,
+  "id": "MLB07",
+  "title": "Streamlit",
+  "description": "App building, deployment",
+  "videos": 8,
+  "duration": "1:09:01",
+  "materials": {
+    "pdf": [],
+    "code": ["CODE/Streamlit Tutorial.ipynb"]
+  }
+}

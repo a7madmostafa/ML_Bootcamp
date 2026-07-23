@@ -1,0 +1,12 @@
+{
+  "module": 3,
+  "id": "MLB03",
+  "title": "Python Projects",
+  "description": "Guessing game, APIs, web scraping projects",
+  "videos": 7,
+  "duration": "2:22:38",
+  "materials": {
+    "pdf": [],
+    "code": ["Code/"]
+  }
+}

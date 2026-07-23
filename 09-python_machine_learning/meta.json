@@ -1,0 +1,12 @@
+{
+  "module": 9,
+  "id": "MLB09",
+  "title": "Python Machine Learning",
+  "description": "Regression, classification, clustering, PCA",
+  "videos": 41,
+  "duration": "6:47:16",
+  "materials": {
+    "pdf": ["PDFs/"],
+    "code": ["CODE/"]
+  }
+}

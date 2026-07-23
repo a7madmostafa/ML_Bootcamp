@@ -1,0 +1,12 @@
+{
+  "module": 1,
+  "id": "MLB01",
+  "title": "Intro to AI & Data Science",
+  "description": "AI basics, ML concepts, data science lifecycle",
+  "videos": 11,
+  "duration": "41:14",
+  "materials": {
+    "pdf": ["Intro to AI.pdf"],
+    "code": []
+  }
+}

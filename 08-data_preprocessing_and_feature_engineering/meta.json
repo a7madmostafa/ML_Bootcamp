@@ -1,0 +1,13 @@
+{
+  "module": 8,
+  "id": "MLB08",
+  "title": "Data Preprocessing & Feature Engineering",
+  "description": "Cleaning, scaling, encoding, pipelines",
+  "videos": 10,
+  "duration": "3:17:02",
+  "materials": {
+    "pdf": [],
+    "code": ["notebooks/"],
+    "data": ["data/"]
+  }
+}
