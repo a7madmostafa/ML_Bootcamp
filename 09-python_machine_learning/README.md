@@ -17,21 +17,21 @@
 | 13 | Logistic Regression 1 | `11:15` | [Link](https://www.youtube.com/watch?v=PqsmdfdSx60) |
 | 14 | Logistic Regression 2 | `6:06` | [Link](https://www.youtube.com/watch?v=62GphY_fJmQ) |
 | 15 | Applied Logistic Regression | `10:48` | [Link](https://www.youtube.com/watch?v=LbaGTeBCANI) |
-| 16 | Multiclass Classification | `14:14` | - |
-| 17 | Regularization in Classification | `4:04` | - |
-| 18 | Classification Metrics | `22:08` | - |
-| 19 | Classification Metrics 2 | `19:21` | - |
-| 20 | Linear Support Vector Classifier | `14:48` | - |
-| 21 | Nonlinear Support Vector Classifier | `15:57` | - |
-| 22 | Support Vector Regressor | `8:01` | - |
-| 23 | K-Nearest Neighbors Classifier | `13:02` | - |
-| 24 | K-Nearest Neighbors Regressor | `7:48` | - |
-| 25 | Decision Tree Classifier | `9:13` | - |
-| 26 | Choosing the Best Question: Categorical | `7:31` | - |
-| 27 | Choosing the Best Question: Numerical | `7:38` | - |
-| 28 | Applying Decision Tree Classifier | `13:57` | - |
-| 29 | Decision Tree Regressor | `10:20` | - |
-| 30 | Ensemble Methods | `9:28` | - |
+| 16 | Multiclass Classification | `14:14` | [Link](https://www.youtube.com/watch?v=PrrJusjS7-k) |
+| 17 | Regularization in Classification | `4:04` | [Link](https://www.youtube.com/watch?v=mfM2NbezqTE) |
+| 18 | Classification Metrics | `22:08` | [Link](https://www.youtube.com/watch?v=VORWokCeg3o) |
+| 19 | Classification Metrics 2 | `19:21` | [Link](https://www.youtube.com/watch?v=aQPwuxfPOQU) |
+| 20 | Linear Support Vector Classifier | `14:48` | [Link](https://www.youtube.com/watch?v=zJ-Q0--X1UI) |
+| 21 | Nonlinear Support Vector Classifier | `15:57` | [Link](https://www.youtube.com/watch?v=UbrF5tbYMtA) |
+| 22 | Support Vector Regressor | `8:01` | [Link](https://www.youtube.com/watch?v=QoRYNEgkebE) |
+| 23 | K-Nearest Neighbors Classifier | `13:02` | [Link](https://www.youtube.com/watch?v=gz4oXKsR1yU) |
+| 24 | K-Nearest Neighbors Regressor | `7:48` | [Link](https://www.youtube.com/watch?v=ppVxHYiCg0I) |
+| 25 | Decision Tree Classifier | `9:13` | [Link](https://www.youtube.com/watch?v=nY5fjtUpCjg) |
+| 26 | Choosing the Best Question: Categorical | `7:31` | [Link](https://www.youtube.com/watch?v=YOJLvxUWhdE) |
+| 27 | Choosing the Best Question: Numerical | `7:38` | [Link](https://www.youtube.com/watch?v=OVl96HnBQRY) |
+| 28 | Applying Decision Tree Classifier | `13:57` | [Link](https://www.youtube.com/watch?v=59zHM6gNFLY) |
+| 29 | Decision Tree Regressor | `10:20` | [Link](https://www.youtube.com/watch?v=Wb7u7xn0EBs) |
+| 30 | Ensemble Methods | `9:28` | [Link](https://www.youtube.com/watch?v=85uXX_7iuYs) |
 | 31 | Applying Ensemble Methods | `5:59` | - |
 | 32 | Intro to Dimension Reduction | `9:20` | - |
 | 33 | PCA in Theory | `10:58` | - |
@@ -45,3 +45,5 @@
 | 41 | Agglomerative Clustering | `9:21` | - |
 
 **Total:** `6:47:16`
+
+> **Note:** Videos 31–41 are unavailable/hidden on YouTube.

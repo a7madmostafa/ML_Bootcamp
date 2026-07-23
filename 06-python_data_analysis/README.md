@@ -17,24 +17,24 @@
 | 13 | Stats 3: Five-Number Summary | `2:12` | [Link](https://www.youtube.com/watch?v=9-ajdNS--GU) |
 | 14 | Stats 4: Spread of Data | `7:34` | [Link](https://www.youtube.com/watch?v=0vdJYoSVcBo) |
 | 15 | Stats 5: Histogram | `6:43` | [Link](https://www.youtube.com/watch?v=xK1n8nEbN70) |
-| 16 | Stats 6: Normal Distribution | `4:00` | - |
-| 17 | Stats 7: Outliers & Box Plot | `3:13` | - |
-| 18 | Stats 8: Covariance & Correlation | `5:13` | - |
-| 19 | Intro to EDA 01 | `15:49` | - |
-| 20 | Intro to EDA 02 | `10:43` | - |
-| 21 | Intro to EDA 03 | `9:54` | - |
-| 22 | Titanic EDA 01 | `20:45` | - |
-| 23 | Titanic EDA 02 | `4:54` | - |
-| 24 | Titanic EDA 03 | `12:24` | - |
-| 25 | Titanic EDA 04 | `7:58` | - |
-| 26 | Covid-19 EDA 01 | `14:54` | - |
-| 27 | Covid-19 EDA 02 | `9:45` | - |
-| 28 | Covid-19 EDA 03 | `12:01` | - |
-| 29 | Covid-19 EDA 04 | `13:07` | - |
-| 30 | Covid-19 EDA 05 | `7:10` | - |
-| 31 | Airbnb EDA 01 | `6:37` | - |
-| 32 | Airbnb EDA 02 | `12:10` | - |
-| 33 | Airbnb EDA 03 | `4:45` | - |
-| 34 | Airbnb EDA 04 | `10:14` | - |
+| 16 | Stats 6: Normal Distribution | `4:00` | [Link](https://www.youtube.com/watch?v=0VJwtNstXhw) |
+| 17 | Stats 7: Outliers & Box Plot | `3:13` | [Link](https://www.youtube.com/watch?v=N5GxaJdfRGM) |
+| 18 | Stats 8: Covariance & Correlation | `5:13` | [Link](https://www.youtube.com/watch?v=eKisRnFW_RM) |
+| 19 | Intro to EDA 01 | `15:49` | [Link](https://www.youtube.com/watch?v=mOnC73ZgaHQ) |
+| 20 | Intro to EDA 02 | `10:43` | [Link](https://www.youtube.com/watch?v=qxDl6WcB9YU) |
+| 21 | Intro to EDA 03 | `9:54` | [Link](https://www.youtube.com/watch?v=fTahUDRVoSg) |
+| 22 | Titanic EDA 01 | `20:45` | [Link](https://www.youtube.com/watch?v=M520BHeLiN0) |
+| 23 | Titanic EDA 02 | `4:54` | [Link](https://www.youtube.com/watch?v=idCMm57x_Kc) |
+| 24 | Titanic EDA 03 | `12:24` | [Link](https://www.youtube.com/watch?v=DCjeDRJvdPA) |
+| 25 | Titanic EDA 04 | `7:58` | [Link](https://www.youtube.com/watch?v=6i_61z89Q1c) |
+| 26 | Covid-19 EDA 01 | `14:54` | [Link](https://www.youtube.com/watch?v=uwT0FoaPBjU) |
+| 27 | Covid-19 EDA 02 | `9:45` | [Link](https://www.youtube.com/watch?v=_aaFGdhFMVw) |
+| 28 | Covid-19 EDA 03 | `12:01` | [Link](https://www.youtube.com/watch?v=bRcy4oawiLA) |
+| 29 | Covid-19 EDA 04 | `13:07` | [Link](https://www.youtube.com/watch?v=xEIPv3YjnFs) |
+| 30 | Covid-19 EDA 05 | `7:10` | [Link](https://www.youtube.com/watch?v=CGDgu8QT0hA) |
+| 31 | Airbnb EDA 01 | `6:37` | [Link](https://www.youtube.com/watch?v=PWUQqtbHexo) |
+| 32 | Airbnb EDA 02 | `12:10` | [Link](https://www.youtube.com/watch?v=X6U-h1hgYlk) |
+| 33 | Airbnb EDA 03 | `4:45` | [Link](https://www.youtube.com/watch?v=PzieTNO-HS8) |
+| 34 | Airbnb EDA 04 | `10:14` | [Link](https://www.youtube.com/watch?v=PSUfpIpxrrE) |
 
 **Total:** `5:42:59`
