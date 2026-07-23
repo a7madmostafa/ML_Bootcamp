@@ -1,7 +1,7 @@
 # ML Bootcamp
 
 <p align="center">
-  <img src="Machine%20Learning%20Bootcamp.png" alt="Machine Learning Bootcamp" width="600">
+  <img src="machine_learning_bootcamp.png" alt="Machine Learning Bootcamp" width="600">
 </p>
 A structured machine learning bootcamp covering AI fundamentals, Python, data analysis, and machine learning.
 
