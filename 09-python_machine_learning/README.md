@@ -50,4 +50,8 @@
 
 ## Materials
 
-> Coming soon.
+- **PDFs/** — Theory notes for each topic
+  - 01–Intro to ML, 02–Linear Regression, 03–Logistic Regression, 04–Classification Metrics, 05–KNN, 06–SVM, 07–Decision Trees, 08–Ensemble Methods, 09–Dimension Reduction, 10–Clustering
+
+- **CODE/** — Practice notebooks and projects
+  - End-to-End Project, Applied Linear Regression, CO₂ Emission, Used Cars Price Prediction, Applied Logistic Regression, Classification Metrics, KNN, SVM, Home Loan Approval, Walmart Sales, Decision Trees, Ensemble Methods, Dimension Reduction, Clustering
