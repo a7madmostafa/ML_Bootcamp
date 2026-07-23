@@ -5,7 +5,7 @@ A structured machine learning bootcamp covering AI fundamentals, Python, data an
 ## Prerequisites
 
 - Laptop with internet connection
-- No prior Python experience required
+- No prior Programming or Data Experience required
 
 ## Modules
 
