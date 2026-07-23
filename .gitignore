@@ -83,3 +83,6 @@ ENV/
 *.pt
 *.pth
 *.onnx
+
+# Personal notes
+future_improvements.md
