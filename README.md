@@ -24,7 +24,7 @@ A structured machine learning bootcamp covering AI fundamentals, Python, data an
 | 08 | [Data Preprocessing & Feature Engineering](08-data_preprocessing_and_feature_engineering/) | Cleaning, scaling, encoding, pipelines | 10 |
 | 09 | [Python Machine Learning](09-python_machine_learning/) | Regression, classification, clustering, PCA | 41 |
 
-**Total:** 147 videos | ~22 hours
+**Total:** 147 videos | ~23 hours
 
 ## How to Use This Repo
 

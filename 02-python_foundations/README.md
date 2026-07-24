@@ -9,7 +9,7 @@
 | 02 | Data Types | `9:40` | [Link](https://www.youtube.com/watch?v=CsF8kTH8n9U) | [Notebook](CODE/2-Simple%20Data%20Types.ipynb) |
 | 03 | Assignment | `7:08` | [Link](https://www.youtube.com/watch?v=HXG5opfEyRI) | [Notebook](CODE/3-Variables%20Assignment.ipynb) |
 | 04 | String 1 | `13:02` | [Link](https://www.youtube.com/watch?v=xsMD1KDqCTo) | [Notebook](CODE/4-%20Strings.ipynb) |
-| 05 | String 2 | `Duration not visible` | [Link](https://www.youtube.com/watch?v=kUxr9lkiwrI) | [Notebook](CODE/4-%20Strings.ipynb) |
+| 05 | String 2 | `12:05` | [Link](https://www.youtube.com/watch?v=kUxr9lkiwrI) | [Notebook](CODE/4-%20Strings.ipynb) |
 | 06 | List | `24:54` | [Link](https://www.youtube.com/watch?v=LcWGL-kUh6w) | [Notebook](CODE/5-%20Lists.ipynb) |
 | 07 | Tuple | `4:45` | [Link](https://www.youtube.com/watch?v=khc70_GfCCg) | [Notebook](CODE/6-%20Tuples.ipynb) |
 | 08 | Dictionary | `8:36` | [Link](https://www.youtube.com/watch?v=Nm8qXwhQDmM) | [Notebook](CODE/7-%20Dictionary.ipynb) |
@@ -29,6 +29,6 @@
 | 22 | OOP 1: What Is OOP | `5:49` | [Link](https://www.youtube.com/watch?v=aDr1HcI2crc) | [Notebook](CODE/OOP%20(1)%20%20What%20is%20OOP%20.ipynb) |
 | 23 | OOP 2: Class Anatomy | `12:42` | [Link](https://www.youtube.com/watch?v=IspUqlkCCFY) | [Notebook](CODE/OOP%20(2)%20%20Class%20Anatomy.ipynb) |
 | 24 | OOP 3: OOP Principles | `9:13` | [Link](https://www.youtube.com/watch?v=xBrWpUurNZQ) | [Notebook](CODE/OOP%20(3)%20%20OOP_Principles.ipynb) |
-| 25 | OOP 4: Machine Learning Example | `Duration not visible` | [Link](https://www.youtube.com/watch?v=4yrxwaQm2QQ) | [Notebook](CODE/OOP%20(4)%20%20ML%20Example.ipynb) |
+| 25 | OOP 4: Machine Learning Example | `3:53` | [Link](https://www.youtube.com/watch?v=4yrxwaQm2QQ) | [Notebook](CODE/OOP%20(4)%20%20ML%20Example.ipynb) |
 
-**Total:** `3:13:27`
+**Total:** `4:00:31`
