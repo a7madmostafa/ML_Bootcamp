@@ -12,17 +12,17 @@ A structured machine learning bootcamp covering AI fundamentals, Python, data an
 
 ## Modules
 
-| # | Module | Topics | Videos |
-|---|--------|--------|--------|
-| 01 | [Intro to AI & Data Science](01-intro_to_ai_and_data_science/) | AI basics, ML concepts, data science lifecycle | 11 |
-| 02 | [Python Foundations](02-python_foundations/) | Data types, OOP, functions, file handling | 26 |
-| 03 | [Python Projects](03-python_projects/) | Guessing game, APIs, web scraping projects | 7 |
-| 04 | [Python Web Scraping](04-python_web_scraping/) | BeautifulSoup, scraping techniques | 4 |
-| 05 | [Git & GitHub](05-git_and_github/) | Version control, collaboration | 6 |
-| 06 | [Python Data Analysis](06-python_data_analysis/) | Linear algebra, statistics, EDA | 34 |
-| 07 | [Streamlit](07-streamlit/) | App building, deployment | 8 |
-| 08 | [Data Preprocessing & Feature Engineering](08-data_preprocessing_and_feature_engineering/) | Cleaning, scaling, encoding, pipelines | 10 |
-| 09 | [Python Machine Learning](09-python_machine_learning/) | Regression, classification, clustering, PCA | 41 |
+| # | Module | Topics | Playlist |
+|---|--------|--------|----------|
+| 01 | [Intro to AI & Data Science](01-intro_to_ai_and_data_science/) | AI basics, ML concepts, data science lifecycle | [YouTube](https://www.youtube.com/playlist?list=PLCYrpkpZ-B_E) |
+| 02 | [Python Foundations](02-python_foundations/) | Data types, OOP, functions, file handling | [YouTube](https://www.youtube.com/playlist?list=PLOgsR6vNaMXI) |
+| 03 | [Python Projects](03-python_projects/) | Guessing game, APIs, web scraping projects | [YouTube](https://www.youtube.com/playlist?list=PLF-Q4pD1YGcs) |
+| 04 | [Python Web Scraping](04-python_web_scraping/) | BeautifulSoup, scraping techniques | [YouTube](https://www.youtube.com/playlist?list=PLWEHQe1UIlgM) |
+| 05 | [Git & GitHub](05-git_and_github/) | Version control, collaboration | [YouTube](https://www.youtube.com/playlist?list=PLUBDpCMyQBwI) |
+| 06 | [Python Data Analysis](06-python_data_analysis/) | Linear algebra, statistics, EDA | [YouTube](https://www.youtube.com/playlist?list=PLdDo53W10MXs) |
+| 07 | [Streamlit](07-streamlit/) | App building, deployment | [YouTube](https://www.youtube.com/playlist?list=PLbP9YuXytU5E) |
+| 08 | [Data Preprocessing & Feature Engineering](08-data_preprocessing_and_feature_engineering/) | Cleaning, scaling, encoding, pipelines | [YouTube](https://www.youtube.com/playlist?list=PLUD2gKdRqrQE) |
+| 09 | [Python Machine Learning](09-python_machine_learning/) | Regression, classification, clustering, PCA | [YouTube](https://www.youtube.com/playlist?list=PLXyDaiLmW7B0) |
 
 **Total:** 147 videos | ~23 hours
 
