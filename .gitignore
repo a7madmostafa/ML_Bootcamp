@@ -70,6 +70,9 @@ ENV/
 # macOS
 .DS_Store
 
+# Windows
+desktop.ini
+
 # Large data files (uncomment if needed)
 # *.csv
 # *.xlsx
@@ -83,6 +86,9 @@ ENV/
 *.pt
 *.pth
 *.onnx
+
+# API keys / secrets
+kaggle.json
 
 # Personal notes
 future_improvements.md

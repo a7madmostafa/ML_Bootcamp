@@ -23,7 +23,6 @@ A structured machine learning bootcamp covering AI fundamentals, Python, data an
 | 07 | [Streamlit](07-streamlit/) | App building, deployment | 8 |
 | 08 | [Data Preprocessing & Feature Engineering](08-data_preprocessing_and_feature_engineering/) | Cleaning, scaling, encoding, pipelines | 10 |
 | 09 | [Python Machine Learning](09-python_machine_learning/) | Regression, classification, clustering, PCA | 41 |
-| 10 | Deep Learning | *Coming soon* | - |
 
 **Total:** 147 videos | ~22 hours
 
@@ -42,7 +41,7 @@ Navigate to any module, find a topic, and access the video, notes, and code dire
 A: Yes. All videos, materials, and code are free and open-source.
 
 **Q: Do I need prior ML experience?**
-A: No. The course starts from the basics. You just need basic Python knowledge.
+A: No. The course starts from the basics. No prior programming or data experience required.
 
 **Q: Can I take it self-paced?**
 A: Yes. Follow the materials on GitHub at your own pace.
