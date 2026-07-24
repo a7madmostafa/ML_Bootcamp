@@ -89,6 +89,8 @@ desktop.ini
 
 # API keys / secrets
 kaggle.json
+credentials.json
+token.json
 
 # Personal notes
 future_improvements.md
